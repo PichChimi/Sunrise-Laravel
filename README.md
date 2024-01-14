@@ -9,3 +9,7 @@ This repository is for study purpose.
 3. CC
 
 ## How to install
+
+1. DD
+2. EE
+3. FF
